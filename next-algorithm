@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-03-20T12:36:25.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="iFfftF6rB_WG_jNnbkNA" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-20T14:05:34.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="D-Lu2X2GxhTmBgkt3ZN1" version="21.0.6" type="github">
   <diagram name="Page-1" id="DJ8P730pvDnsq3EUhHgM">
     <mxGraphModel dx="890" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UA-T-qaGR1z_5a2Fw1Y1-1" value="Thuật toán so sánh đáp án" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="80" y="10" width="180" height="30" as="geometry" />
+          <mxGeometry x="20" y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UA-T-qaGR1z_5a2Fw1Y1-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UA-T-qaGR1z_5a2Fw1Y1-2" target="UA-T-qaGR1z_5a2Fw1Y1-3">
           <mxGeometry relative="1" as="geometry" />
