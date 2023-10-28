@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-28T01:29:19.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="kc7lPK1U9cZVkZQskUO-" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-10-28T01:47:29.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="kGiVJu4xwUMPHlDSPhOR" version="22.0.8" type="github" pages="4">
   <diagram name="Page-1" id="_IsQatfWnGMrp2kWF2f4">
     <mxGraphModel dx="1290" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -507,7 +507,7 @@
         <mxCell id="2nt1gZ3R8IsyHFShEvir-4" value="40%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="465" y="1530" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2nt1gZ3R8IsyHFShEvir-6" value="Số từ tối thiểu học mỗi ngày" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2nt1gZ3R8IsyHFShEvir-6" value="Số từ tối đa &lt;br&gt;học mỗi ngày" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="1460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2nt1gZ3R8IsyHFShEvir-7" value="+" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
